@@ -1,7 +1,7 @@
 # 🈶 Kanji Learning App
 > Practice writing kanji with instant feedback and a built-in timer.
 
-**Live:** [your-live-link.com](https://your-live-link.com)
+**Live:** Localy
 
 ---
 
